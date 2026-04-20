@@ -1,0 +1,351 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d4" for="edge" attr.name="relation" attr.type="string" />
+  <key id="d3" for="node" attr.name="entity_type" attr.type="string" />
+  <key id="d2" for="node" attr.name="title" attr.type="string" />
+  <key id="d1" for="node" attr.name="doc_id" attr.type="string" />
+  <key id="d0" for="node" attr.name="kind" attr.type="string" />
+  <graph edgedefault="directed">
+    <node id="sel_assessment_guide::chunk::0">
+      <data key="d0">chunk</data>
+      <data key="d1">sel_assessment_guide</data>
+      <data key="d2">sel_assessment_guide.txt</data>
+    </node>
+    <node id="sel_intro::chunk::0">
+      <data key="d0">chunk</data>
+      <data key="d1">sel_intro</data>
+      <data key="d2">sel_intro.txt</data>
+    </node>
+    <node id="teacher_handbook::chunk::0">
+      <data key="d0">chunk</data>
+      <data key="d1">teacher_handbook</data>
+      <data key="d2">teacher_handbook.txt</data>
+    </node>
+    <node id="a1">
+      <data key="d0">activity</data>
+      <data key="d2">How Are You Feeling?</data>
+    </node>
+    <node id="a2">
+      <data key="d0">activity</data>
+      <data key="d2">Mood Meter</data>
+    </node>
+    <node id="a3">
+      <data key="d0">activity</data>
+      <data key="d2">The Guardian Angels</data>
+    </node>
+    <node id="a4">
+      <data key="d0">activity</data>
+      <data key="d2">Emotional Sculptures</data>
+    </node>
+    <node id="a5">
+      <data key="d0">activity</data>
+      <data key="d2">I Am You and You Are Me</data>
+    </node>
+    <node id="a6">
+      <data key="d0">activity</data>
+      <data key="d2">Feelings Dictionary</data>
+    </node>
+    <node id="a7">
+      <data key="d0">activity</data>
+      <data key="d2">The Mood Meter Journal</data>
+    </node>
+    <node id="a8">
+      <data key="d0">activity</data>
+      <data key="d2">Classroom Climate Circle</data>
+    </node>
+    <node id="a9">
+      <data key="d0">activity</data>
+      <data key="d2">Problem-Solving Steps</data>
+    </node>
+    <node id="a10">
+      <data key="d0">activity</data>
+      <data key="d2">Peer Feedback Workshop</data>
+    </node>
+    <node id="Classroom Assessment">
+      <data key="d0">entity</data>
+      <data key="d3">Assessment</data>
+    </node>
+    <node id="Group Level">
+      <data key="d0">entity</data>
+      <data key="d3">Level</data>
+    </node>
+    <node id="Emotional Awareness">
+      <data key="d0">entity</data>
+      <data key="d3">Skill</data>
+    </node>
+    <node id="Emotional Regulation">
+      <data key="d0">entity</data>
+      <data key="d3">Skill</data>
+    </node>
+    <node id="Classroom Cohesion">
+      <data key="d0">entity</data>
+      <data key="d3">Concept</data>
+    </node>
+    <node id="Social Climate">
+      <data key="d0">entity</data>
+      <data key="d3">Concept</data>
+    </node>
+    <node id="Group Participation">
+      <data key="d0">entity</data>
+      <data key="d3">Behavior</data>
+    </node>
+    <node id="Student">
+      <data key="d0">entity</data>
+      <data key="d3">Person</data>
+    </node>
+    <node id="Baseline">
+      <data key="d0">entity</data>
+      <data key="d3">Reference</data>
+    </node>
+    <node id="Classrooms">
+      <data key="d0">entity</data>
+      <data key="d3">Environment</data>
+    </node>
+    <node id="Isolated Student Ratio" />
+    <node id="Social and Emotional Learning">
+      <data key="d0">entity</data>
+      <data key="d3">SEL</data>
+    </node>
+    <node id="self-awareness">
+      <data key="d0">entity</data>
+      <data key="d3">SEL_skill</data>
+    </node>
+    <node id="self-management">
+      <data key="d0">entity</data>
+      <data key="d3">SEL_skill</data>
+    </node>
+    <node id="social awareness">
+      <data key="d0">entity</data>
+      <data key="d3">SEL_skill</data>
+    </node>
+    <node id="relationship skills">
+      <data key="d0">entity</data>
+      <data key="d3">SEL_skill</data>
+    </node>
+    <node id="responsible decision-making">
+      <data key="d0">entity</data>
+      <data key="d3">SEL_skill</data>
+    </node>
+    <node id="Teachers">
+      <data key="d0">entity</data>
+      <data key="d3">Role</data>
+    </node>
+    <node id="structured activities">
+      <data key="d0">entity</data>
+      <data key="d3">Strategy</data>
+    </node>
+    <node id="reflective discussion">
+      <data key="d0">entity</data>
+      <data key="d3">Strategy</data>
+    </node>
+    <node id="sequential learning paths">
+      <data key="d0">entity</data>
+      <data key="d3">Strategy</data>
+    </node>
+    <node id="teacher">
+      <data key="d0">entity</data>
+      <data key="d3">person</data>
+    </node>
+    <node id="classroom climate">
+      <data key="d0">entity</data>
+      <data key="d3">environment</data>
+    </node>
+    <node id="emotions">
+      <data key="d0">entity</data>
+      <data key="d3">concept</data>
+    </node>
+    <node id="peer discussion">
+      <data key="d0">entity</data>
+      <data key="d3">activity</data>
+    </node>
+    <node id="reflection">
+      <data key="d0">entity</data>
+      <data key="d3">process</data>
+    </node>
+    <node id="activities">
+      <data key="d0">entity</data>
+      <data key="d3">activity</data>
+    </node>
+    <node id="progress">
+      <data key="d0">entity</data>
+      <data key="d3">measurement</data>
+    </node>
+    <node id="sequence">
+      <data key="d0">entity</data>
+      <data key="d3">process</data>
+    </node>
+    <node id="SEL implementation" />
+    <node id="safe classroom climate" />
+    <node id="peer">
+      <data key="d0">entity</data>
+      <data key="d3">person</data>
+    </node>
+    <node id="discussion">
+      <data key="d0">entity</data>
+      <data key="d3">activity</data>
+    </node>
+    <node id="SEL" />
+    <edge source="a1" target="a2">
+      <data key="d4">sequence</data>
+    </edge>
+    <edge source="a2" target="a3">
+      <data key="d4">sequence</data>
+    </edge>
+    <edge source="a3" target="a4">
+      <data key="d4">sequence</data>
+    </edge>
+    <edge source="a4" target="a5">
+      <data key="d4">sequence</data>
+    </edge>
+    <edge source="a5" target="a6">
+      <data key="d4">sequence</data>
+    </edge>
+    <edge source="a6" target="a7">
+      <data key="d4">sequence</data>
+    </edge>
+    <edge source="a7" target="a8">
+      <data key="d4">sequence</data>
+    </edge>
+    <edge source="a8" target="a9">
+      <data key="d4">sequence</data>
+    </edge>
+    <edge source="a9" target="a10">
+      <data key="d4">sequence</data>
+    </edge>
+    <edge source="Classroom Assessment" target="Group Level">
+      <data key="d4">interpreted_at</data>
+    </edge>
+    <edge source="Classroom Assessment" target="Baseline">
+      <data key="d4">compared_to</data>
+    </edge>
+    <edge source="Classroom Assessment" target="Emotional Awareness">
+      <data key="d4">measures</data>
+    </edge>
+    <edge source="Classroom Assessment" target="Emotional Regulation">
+      <data key="d4">measures</data>
+    </edge>
+    <edge source="Classroom Assessment" target="Classroom Cohesion">
+      <data key="d4">measures</data>
+    </edge>
+    <edge source="Classroom Assessment" target="Social Climate">
+      <data key="d4">measures</data>
+    </edge>
+    <edge source="Classroom Assessment" target="Group Participation">
+      <data key="d4">measures</data>
+    </edge>
+    <edge source="Emotional Awareness" target="Classroom Assessment">
+      <data key="d4">is_indicator</data>
+    </edge>
+    <edge source="Emotional Regulation" target="Classroom Assessment">
+      <data key="d4">is_indicator</data>
+    </edge>
+    <edge source="Classroom Cohesion" target="Classroom Assessment">
+      <data key="d4">is_indicator</data>
+    </edge>
+    <edge source="Social Climate" target="Classroom Assessment">
+      <data key="d4">is_indicator</data>
+    </edge>
+    <edge source="Group Participation" target="Classroom Assessment">
+      <data key="d4">is_indicator</data>
+    </edge>
+    <edge source="Student" target="Isolated Student Ratio">
+      <data key="d4">related_to</data>
+    </edge>
+    <edge source="Student" target="Classroom Assessment">
+      <data key="d4">related_to</data>
+    </edge>
+    <edge source="Student" target="Classroom Cohesion">
+      <data key="d4">impacts</data>
+    </edge>
+    <edge source="Baseline" target="Classrooms">
+      <data key="d4">from</data>
+    </edge>
+    <edge source="Baseline" target="Classroom Assessment">
+      <data key="d4">used_for</data>
+    </edge>
+    <edge source="Classrooms" target="Baseline">
+      <data key="d4">used for</data>
+    </edge>
+    <edge source="Social and Emotional Learning" target="self-awareness">
+      <data key="d4">supports</data>
+    </edge>
+    <edge source="Social and Emotional Learning" target="self-management">
+      <data key="d4">supports</data>
+    </edge>
+    <edge source="Social and Emotional Learning" target="social awareness">
+      <data key="d4">supports</data>
+    </edge>
+    <edge source="Social and Emotional Learning" target="relationship skills">
+      <data key="d4">supports</data>
+    </edge>
+    <edge source="Social and Emotional Learning" target="responsible decision-making">
+      <data key="d4">supports</data>
+    </edge>
+    <edge source="Teachers" target="Social and Emotional Learning">
+      <data key="d4">improves</data>
+    </edge>
+    <edge source="Teachers" target="structured activities">
+      <data key="d4">uses</data>
+    </edge>
+    <edge source="Teachers" target="reflective discussion">
+      <data key="d4">uses</data>
+    </edge>
+    <edge source="Teachers" target="sequential learning paths">
+      <data key="d4">uses</data>
+    </edge>
+    <edge source="Teachers" target="SEL">
+      <data key="d4">improves</data>
+    </edge>
+    <edge source="teacher" target="classroom climate">
+      <data key="d4">guides</data>
+    </edge>
+    <edge source="teacher" target="emotions">
+      <data key="d4">uses</data>
+    </edge>
+    <edge source="teacher" target="peer discussion">
+      <data key="d4">encourages</data>
+    </edge>
+    <edge source="teacher" target="activities">
+      <data key="d4">selects</data>
+    </edge>
+    <edge source="teacher" target="progress">
+      <data key="d4">reassesses</data>
+    </edge>
+    <edge source="teacher" target="sequence">
+      <data key="d4">adapts</data>
+    </edge>
+    <edge source="teacher" target="SEL implementation">
+      <data key="d4">guides</data>
+    </edge>
+    <edge source="teacher" target="discussion">
+      <data key="d4">encourages</data>
+    </edge>
+    <edge source="teacher" target="reflection">
+      <data key="d4">encourages</data>
+    </edge>
+    <edge source="SEL implementation" target="safe classroom climate">
+      <data key="d4">requires</data>
+    </edge>
+    <edge source="SEL implementation" target="emotions">
+      <data key="d4">uses</data>
+    </edge>
+    <edge source="SEL implementation" target="peer discussion">
+      <data key="d4">encourages</data>
+    </edge>
+    <edge source="SEL implementation" target="reflection">
+      <data key="d4">encourages</data>
+    </edge>
+    <edge source="SEL implementation" target="activities">
+      <data key="d4">selects</data>
+    </edge>
+    <edge source="SEL implementation" target="progress">
+      <data key="d4">reassesses</data>
+    </edge>
+    <edge source="SEL implementation" target="sequence">
+      <data key="d4">adapts</data>
+    </edge>
+    <edge source="SEL implementation" target="discussion">
+      <data key="d4">encourages</data>
+    </edge>
+  </graph>
+</graphml>

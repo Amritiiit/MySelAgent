@@ -1,0 +1,279 @@
+[
+  {
+    "activity_id": "a1",
+    "title": "How Are You Feeling?",
+    "summary": "A short opening activity where students name emotions and connect them to everyday situations.",
+    "age_group": "6-8",
+    "competencies": [
+      "emotional awareness",
+      "emotion expression"
+    ],
+    "didactic_strategies": [
+      "arts-based-learning",
+      "discussion"
+    ],
+    "topics": [
+      "feelings",
+      "vocabulary",
+      "self-expression"
+    ],
+    "popularity": 0.82,
+    "impact": 0.74,
+    "comments": [
+      "Easy to run",
+      "Helps shy students participate"
+    ],
+    "next_activities": [
+      "a2"
+    ]
+  },
+  {
+    "activity_id": "a2",
+    "title": "Mood Meter",
+    "summary": "Students place emotions on a simple two-axis mood map and explain why their feeling fits there.",
+    "age_group": "9-12",
+    "competencies": [
+      "self-awareness",
+      "emotional regulation"
+    ],
+    "didactic_strategies": [
+      "experiential-learning",
+      "reflection"
+    ],
+    "topics": [
+      "emotion scale",
+      "self-regulation",
+      "awareness"
+    ],
+    "popularity": 0.91,
+    "impact": 0.86,
+    "comments": [
+      "Very adaptable",
+      "Good for check-ins"
+    ],
+    "next_activities": [
+      "a3"
+    ]
+  },
+  {
+    "activity_id": "a3",
+    "title": "The Guardian Angels",
+    "summary": "A peer-support reflection activity focused on belonging, empathy, and noticing classmates who may feel isolated.",
+    "age_group": "13-18",
+    "competencies": [
+      "empathy",
+      "social awareness",
+      "relationship skills"
+    ],
+    "didactic_strategies": [
+      "role-playing",
+      "group-discussion"
+    ],
+    "topics": [
+      "peer support",
+      "belonging",
+      "empathy"
+    ],
+    "popularity": 0.77,
+    "impact": 0.79,
+    "comments": [
+      "Strong discussion activity",
+      "Works well with older learners"
+    ],
+    "next_activities": [
+      "a4"
+    ]
+  },
+  {
+    "activity_id": "a4",
+    "title": "Emotional Sculptures",
+    "summary": "Students use body posture, drawings, or clay to represent emotional states and discuss interpretation.",
+    "age_group": "6-8",
+    "competencies": [
+      "emotion expression",
+      "emotional awareness"
+    ],
+    "didactic_strategies": [
+      "arts-based-learning",
+      "experiential-learning"
+    ],
+    "topics": [
+      "nonverbal expression",
+      "emotion recognition"
+    ],
+    "popularity": 0.69,
+    "impact": 0.71,
+    "comments": [
+      "Useful for mixed-language classrooms",
+      "Very engaging"
+    ],
+    "next_activities": [
+      "a5"
+    ]
+  },
+  {
+    "activity_id": "a5",
+    "title": "I Am You and You Are Me",
+    "summary": "A perspective-taking exercise where students rephrase a peer's viewpoint to build empathy.",
+    "age_group": "9-12",
+    "competencies": [
+      "empathy",
+      "perspective-taking",
+      "social awareness"
+    ],
+    "didactic_strategies": [
+      "role-playing",
+      "cooperative-learning"
+    ],
+    "topics": [
+      "perspective",
+      "listening",
+      "respect"
+    ],
+    "popularity": 0.84,
+    "impact": 0.81,
+    "comments": [
+      "Good for conflict resolution",
+      "Encourages listening"
+    ],
+    "next_activities": [
+      "a6"
+    ]
+  },
+  {
+    "activity_id": "a6",
+    "title": "Feelings Dictionary",
+    "summary": "Students build a shared dictionary of nuanced feeling words and example situations.",
+    "age_group": "9-12",
+    "competencies": [
+      "emotional vocabulary",
+      "self-awareness"
+    ],
+    "didactic_strategies": [
+      "project-based-learning"
+    ],
+    "topics": [
+      "vocabulary",
+      "emotion words",
+      "language"
+    ],
+    "popularity": 0.73,
+    "impact": 0.68,
+    "comments": [
+      "Useful across subjects",
+      "Great for weekly routines"
+    ],
+    "next_activities": [
+      "a7"
+    ]
+  },
+  {
+    "activity_id": "a7",
+    "title": "The Mood Meter Journal",
+    "summary": "Students maintain a short journal tracking their emotions, triggers, and coping strategies over time.",
+    "age_group": "13-18",
+    "competencies": [
+      "self-management",
+      "emotional regulation"
+    ],
+    "didactic_strategies": [
+      "reflection",
+      "journaling"
+    ],
+    "topics": [
+      "self-monitoring",
+      "coping",
+      "triggers"
+    ],
+    "popularity": 0.79,
+    "impact": 0.83,
+    "comments": [
+      "Strong for intervention cycles",
+      "Supports self-regulation"
+    ],
+    "next_activities": [
+      "a8"
+    ]
+  },
+  {
+    "activity_id": "a8",
+    "title": "Classroom Climate Circle",
+    "summary": "A circle discussion to improve trust, belonging, and group emotional climate.",
+    "age_group": "6-8",
+    "competencies": [
+      "group emotional climate",
+      "relationship skills"
+    ],
+    "didactic_strategies": [
+      "circle-time",
+      "discussion"
+    ],
+    "topics": [
+      "classroom climate",
+      "trust",
+      "community"
+    ],
+    "popularity": 0.88,
+    "impact": 0.87,
+    "comments": [
+      "Helpful after conflict",
+      "Strong sense of belonging"
+    ],
+    "next_activities": [
+      "a9"
+    ]
+  },
+  {
+    "activity_id": "a9",
+    "title": "Problem-Solving Steps",
+    "summary": "Students use a structured sequence to identify a problem, generate options, and choose a responsible action.",
+    "age_group": "9-12",
+    "competencies": [
+      "responsible decision-making",
+      "self-management"
+    ],
+    "didactic_strategies": [
+      "project-based-learning",
+      "guided-practice"
+    ],
+    "topics": [
+      "decision making",
+      "conflict resolution"
+    ],
+    "popularity": 0.81,
+    "impact": 0.78,
+    "comments": [
+      "Good transition to more advanced tasks",
+      "Easy to scaffold"
+    ],
+    "next_activities": [
+      "a10"
+    ]
+  },
+  {
+    "activity_id": "a10",
+    "title": "Peer Feedback Workshop",
+    "summary": "Students practice giving kind, specific, and useful feedback to peers using sentence starters.",
+    "age_group": "13-18",
+    "competencies": [
+      "relationship skills",
+      "social awareness",
+      "responsible decision-making"
+    ],
+    "didactic_strategies": [
+      "peer-learning",
+      "feedback"
+    ],
+    "topics": [
+      "feedback",
+      "communication",
+      "respect"
+    ],
+    "popularity": 0.76,
+    "impact": 0.82,
+    "comments": [
+      "Strong for project work",
+      "Improves classroom dialogue"
+    ]
+  }
+]
