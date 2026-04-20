@@ -100,7 +100,7 @@ SEL Theory   Classroom      SEL Activity
 
 - Python 3.8+
 - [Ollama](https://ollama.com/) installed and running
-- Gemma 3 model pulled: `ollama pull gemma3`
+- Gemma 3 model pulled: `ollama pull gemma3:4b`
 
 ### Installation
 
@@ -114,8 +114,8 @@ pip install -r requirements.txt
 
 ```bash
 python main.py init --data ./data
-python main.py rebuild --data ./data --model gemma3:12b
-python main.py chat --data ./data --model gemma3:12b
+python main.py rebuild --data ./data --model gemma3:4b
+python main.py chat --data ./data --model gemma3:4b
 ```
 
 ---
